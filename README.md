@@ -229,7 +229,7 @@ São **4 métodos de teste** distribuídos em **2 classes**, que cobrem **11 cen
 
 ## 👥 Contribuidores
 
-Os contribuidores do projeto podem ser visualizados na [página de contribuidores do GitHub](https://github.com/KdAndrade/fintech-bank-xunit/graphs/contributors).
+Os contribuidores do projeto podem ser visualizados na [página de contribuidores do GitHub](https://github.com/KdAndrade/fintech-bank-xunit/graphs/contributors). 
 
 ---
 
